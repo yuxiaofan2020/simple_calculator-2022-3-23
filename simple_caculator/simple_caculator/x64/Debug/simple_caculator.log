@@ -1,0 +1,5 @@
+﻿  head.cpp
+E:\vs2022\projects\simple_caculator\simple_caculator\head.cpp(16,37): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  main.cpp
+  正在生成代码...
+  simple_caculator.vcxproj -> E:\vs2022\projects\simple_caculator\x64\Debug\simple_caculator.exe
